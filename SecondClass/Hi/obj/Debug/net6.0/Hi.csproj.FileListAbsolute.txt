@@ -1,0 +1,15 @@
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\bin\Debug\net6.0\Hi.exe
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\bin\Debug\net6.0\Hi.deps.json
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\bin\Debug\net6.0\Hi.runtimeconfig.json
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\bin\Debug\net6.0\Hi.dll
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\bin\Debug\net6.0\Hi.pdb
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.csproj.AssemblyReference.cache
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.AssemblyInfoInputs.cache
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.AssemblyInfo.cs
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.csproj.CoreCompileInputs.cache
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.dll
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\refint\Hi.dll
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.pdb
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\Hi.genruntimeconfig.cache
+C:\Users\Anar Gantulga\1400\ClassPrepCh3\SecondClass\Hi\obj\Debug\net6.0\ref\Hi.dll
